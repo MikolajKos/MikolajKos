@@ -4,7 +4,7 @@
 - 📖 I also work a lot with Wordpress CMS building basic webpages and WooCommerce shops
 - 💻 Web Developer
 
-bool You_want_to_reach_me = true; //😎
+
 if(You_want_to_reach_me)
 {
     📫 string myPrivateEmail = "niko.kosiorek@gmail.com";
