@@ -1,8 +1,14 @@
 - 👋 Hi, I’m Mikolaj
-- 👀 I’m interested in making myself better in programing
-- 🌱 I’m currently learning C# (WPF, ASP.NET core) and also trying my best at java script and php (using SQL Server Management Studio).
-- 📫 How to reach me: niko.kosiorek@gmail.com
-- Web Developer
+- 👀 I’m interested in programing && 📳 technology && 🤖 AI && 👽 space exploration && universe laws and history in general
+- 🌱 I’m currently learning C# (WPF, ASP.NET core, Xanmarin), Microsoft SQL Server and also trying my best at java script and php.
+- 📖 I also work a lot with Wordpress CMS building basic webpages and WooCommerce shops
+- 💻 Web Developer
+
+bool You_want_to_reach_me = true; //😎
+if(You_want_to_reach_me)
+{
+    📫 string myPrivateEmail = "niko.kosiorek@gmail.com";
+}
 
 <!---
 MikolajKos/MikolajKos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
