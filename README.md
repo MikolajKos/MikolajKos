@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mikolaj
+- 👋 Hi, I’m Mikolaj from Poland ⬜🟥
 - 👀 I’m interested in programing && 📳 technology && 🤖 AI && 👽 space exploration && universe laws and history in general
 - 🌱 I’m currently learning C# (WPF, ASP.NET core, Xanmarin), Microsoft SQL Server and also trying my best at java script and php.
 - 📖 I also work a lot with Wordpress CMS building basic webpages and WooCommerce shops
