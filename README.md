@@ -6,9 +6,8 @@
 
 
 if ( You_want_to_reach_me )
-{
     📫 myPrivateEmail = "niko.kosiorek@gmail.com";
-}
+
 
 <!---
 MikolajKos/MikolajKos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
