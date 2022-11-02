@@ -6,7 +6,7 @@
 
 
 if ( You_want_to_reach_me )
-    📫 myPrivateEmail = "niko.kosiorek@gmail.com";
+    📫 myPrivateEmail = "<b>niko.kosiorek@gmail.com</b>";
 
 
 <!---
