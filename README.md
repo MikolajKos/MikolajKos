@@ -5,9 +5,10 @@
 - 💻 Web Developer
 
 
-if ( You_want_to_reach_me )</ br>
+if ( You_want_to_reach_me )
     📫 myPrivateEmail = "<b>niko.kosiorek@gmail.com</b>";
 
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <!---
 MikolajKos/MikolajKos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
