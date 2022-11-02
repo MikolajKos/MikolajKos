@@ -5,7 +5,7 @@
 - 💻 Web Developer
 
 
-if ( You_want_to_reach_me )
+if ( You_want_to_reach_me )</ br>
     📫 myPrivateEmail = "<b>niko.kosiorek@gmail.com</b>";
 
 
