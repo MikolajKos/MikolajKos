@@ -6,7 +6,7 @@
 - 🎓 I am a second-year student at Cracow University of Technology (Politechnika Krakowska)  
 - 💻 I run a small business doing freelance work building websites and WooCommerce shops (WordPress CMS) as a side job 
 
-🏗 Current C++ Project:\
+🏗 Current C Project:\
 [Warehouse Simulator](https://github.com/MikolajKos/shipping-warehouse-simulator.git)
 
 🎯 My Goal: AI Debugging Assistant with Libclang:\
