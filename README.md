@@ -1,5 +1,5 @@
 # Mikołaj Kosiorek
-**C++ Enthusiast**
+**C/C++ Enthusiast**
 - 👋 Hi, I’m Mikołaj from Poland ⬜🟥  
 - 👀 I’m interested in programming, technology, AI, space exploration, the laws of the universe, and history in general  
 - 🌱 I’m currently focusing on learning C++ and deepening my knowledge in software development  
